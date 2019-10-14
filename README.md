@@ -2,10 +2,12 @@
 
 
 - File IO
-  - [1. txt](#txt)
+  - [txt](#txt)
+  - [csv](#csv)
 
 ---
 
 ### 1. File IO
 
-- [x] <span id = "txt">txt
+- [x] <span id="txt">txt
+- [x] <span id="csv">csv
