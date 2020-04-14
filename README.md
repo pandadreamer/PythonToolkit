@@ -13,3 +13,4 @@
 ### 3. Others
 
 - [x] <span id="image2pyFile">image2pyFile
+- [x] <span id="splitString">splitString
