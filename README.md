@@ -14,3 +14,6 @@
 
 - [x] <span id="image2pyFile">image2pyFile
 - [x] <span id="splitString">splitString
+
+### 4. Read Image
+- [x] <span id="skimage_imread">skimage_imread
